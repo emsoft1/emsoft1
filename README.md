@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emsoft1
-- 👀 I’m interested in in web back end and blockchain
-- 🌱 I’m currently learning bsc blockchain and trade 
+- 👀 I’m interested in in back-end and mobile cross platform development 
+- 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me Mehrdad@sucher.tech
 
